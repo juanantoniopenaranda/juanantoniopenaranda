@@ -25,7 +25,8 @@ public class JuanantoniopenarandamadridGit {
  * 
  */
 
-/** Cambio de vuelta a la rama master 
->>>>>>> RAMA1
+/** CAMBIO PARA EL REPOSITORIO ONLINE 
+ * 500
+
  * 
  */
